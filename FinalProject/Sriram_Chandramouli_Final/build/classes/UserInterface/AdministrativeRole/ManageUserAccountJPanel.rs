@@ -1,0 +1,7 @@
+UserInterface.AdministrartiveRole.ManageUserAccountJPanel$1
+UserInterface.AdministrartiveRole.ManageUserAccountJPanel$2
+UserInterface.AdministrartiveRole.ManageUserAccountJPanel$3
+UserInterface.AdministrartiveRole.ManageUserAccountJPanel
+UserInterface.AdministrartiveRole.ManageUserAccountJPanel$4
+UserInterface.AdministrartiveRole.ManageUserAccountJPanel$5
+UserInterface.AdministrartiveRole.ManageUserAccountJPanel$6
